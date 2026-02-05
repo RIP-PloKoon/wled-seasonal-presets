@@ -1,0 +1,24 @@
+{
+  "9": {
+    "on": true,
+    "playlist": {
+      "ps": [5, 7, 8, 6, 4],
+      "dur": [1000, 1000, 1000, 1000, 1000],
+      "transition": [7, 7, 7, 7, 7],
+      "repeat": 0,
+      "r": 1
+    },
+    "n": "Christmas"
+  },
+  "13": {
+    "on": true,
+    "playlist": {
+      "ps": [11, 12, 10],
+      "dur": [600, 600, 600],
+      "transition": [7, 7, 7],
+      "repeat": 0,
+      "r": 1
+    },
+    "n": "New Years"
+  }
+}
